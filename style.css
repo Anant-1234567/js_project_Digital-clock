@@ -23,25 +23,7 @@
     background-color: none;
     float: left;
 }
-.left-box-2{
-    width:204px;
-    height: 70px;
-    background-color: white;
-    float: right;
-    border-radius: 10px;
-    margin-right: 20px;
-    position: relative;
-    top:-7%;
-}
-.in-left-box-2{
-    clip-path: polygon(0 61%, 0 0, 73% 0, 73% 17%, 80% 25%, 74% 34%, 74% 60%);
-    background-color: white;
-    width: 260px;
-    height: 95px;
-    position: absolute;
-    top:9px;
-    left:10px;
-}
+
 
 
 /* this is middle box css */
@@ -163,24 +145,7 @@
    
   
 
-   .left-box-7{
-    width:15%;
-    height: 50px;
-    background-color: white;
-    position: absolute;
-    left:90px;
-    top:88%;
-    border-radius: 5px;
-   }
-  
-   .inside-left-7{
-    clip-path: polygon(0 100%, 0 37%, 81% 36%, 86% 26%, 91% 36%, 100% 36%, 100% 100%);
-    background-color: white;
-    width: 90%;
-    height: 70px;
-    margin-left: 10px;
-    margin-top: -25px;
-   } 
+   
 /* #####################################right side css####################################### */
 .right-box-A1{
     top: 67px;
